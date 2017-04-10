@@ -1,9 +1,8 @@
 language: cpp
 compiler:
   - clang
-
+fast_fail: true
 script:
-- make
 - cd cdep
 - ./cdep fullfill ../include ${TRAVIS_TAG:-0.0.0} cdep-manifest.yml
 - ./cdep
