@@ -3,7 +3,7 @@ coordinate:
   artifactId: vectorial
   version: ${version}
 archive:
-  file: ${source}/vectorial/include
+  file: ${source}/include/...
 example: |
   #include <vectorial/simd4f.h>
   void test() {
