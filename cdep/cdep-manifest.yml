@@ -5,8 +5,9 @@ coordinate:
 license:
   name: BSD 2-clause
   url: https://raw.githubusercontent.com/scoopr/vectorial/master/LICENSE
-archive:
-  file: ${source}/include/...
+interfaces:
+  headers:
+    file: ${source}/include/...
 example: |
   #include <vectorial/simd4f.h>
   void test() {
