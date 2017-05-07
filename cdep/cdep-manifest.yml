@@ -2,6 +2,9 @@ coordinate:
   groupId: com.github.jomof
   artifactId: vectorial
   version: ${version}
+license:
+  name: BSD 2-clause
+  url: https://raw.githubusercontent.com/scoopr/vectorial/master/LICENSE
 archive:
   file: ${source}/include/...
 example: |
