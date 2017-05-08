@@ -3,7 +3,7 @@
 # CDep Packaging of MathFu Libraries
 Include these in your cdep.yml file. More recent versions may be available, see releases.
 ```
-- compile: com.github.jomof:mathfu:1.1.0-rev1
+- compile: com.github.jomof:vectorial:0.0.0-rev18
 ```
 Go [here](https://github.com/google/cdep) to get started using CDep package manager.
 
