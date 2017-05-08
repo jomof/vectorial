@@ -1,5 +1,15 @@
+[![Build Status](https://travis-ci.org/jomof/mathfu.svg?branch=master)](https://travis-ci.org/jomof/mathfu)
 
-    Vectorial - vector math library
+# CDep Packaging of MathFu Libraries
+Include these in your cdep.yml file. More recent versions may be available, see releases.
+```
+- compile: com.github.jomof:mathfu:1.1.0-rev1
+```
+Go [here](https://github.com/google/cdep) to get started using CDep package manager.
+
+
+
+# Vectorial - vector math library
 
 
 
